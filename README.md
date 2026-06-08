@@ -38,3 +38,19 @@ This project analyzes sales performance using Power BI and provides business ins
 - Total Profit: 1.81M
 - Units Sold: 1.125K
 - Profit Margin: 24.27%
+
+# Power BI Sales Analytics Dashboard
+
+## Dashboard Screenshots
+
+### Sales Overview Dashboard
+![Sales Overview](Sales Performance Dashboard.png)
+
+### Customer & Store Analysis
+![Customer Store Analysis](Customer Store and Analysis.png)
+
+### Product Performance Dashboard
+![Product Performance](Product Performance Dashboard.png)
+
+### Executive Summary Dashboard
+![Executive Summary](Executive Summary Dashboard.png)
